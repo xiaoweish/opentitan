@@ -32,3 +32,5 @@ MODULE.bazel.lock linguist-generated=true
 
 # Do not format vendored or generated files
 **/vendor/** rules-lint-ignored=true
+
+*.hjson linguist-language=jsonc
